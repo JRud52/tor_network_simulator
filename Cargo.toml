@@ -1,0 +1,6 @@
+[package]
+name = "tor_network_simulator"
+version = "0.1.0"
+authors = ["Justin Rhude <justin.rhude52@gmail.com>"]
+
+[dependencies]
